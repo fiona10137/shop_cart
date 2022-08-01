@@ -1,0 +1,132 @@
+{
+    "items": [
+      {
+        "sys": {
+          "id": "1"
+        },
+        "fields": {
+          "title": "Семейный комплект",
+          "price": 30.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "https://hobbie.p-host.in/images/product-1.jpeg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "2"
+        },
+        "fields": {
+          "title": "Двуспальный комплект",
+          "price": 22.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "https://hobbie.p-host.in/images/product-2.jpeg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "3"
+        },
+        "fields": {
+          "title": "Двуспальный комплект",
+          "price": 22.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "https://hobbie.p-host.in/images/product-3.jpeg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "4"
+        },
+        "fields": {
+          "title": "Двуспальный комплект",
+          "price": 22.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "https://hobbie.p-host.in/images/product-4.jpeg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "5"
+        },
+        "fields": {
+          "title": "Двуспальный комплект",
+          "price": 15.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "https://hobbie.p-host.in/images/product-5.jpeg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "6"
+        },
+        "fields": {
+          "title": "Односпальный комплект",
+          "price": 12.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "https://hobbie.p-host.in/images/product-6.jpeg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "7"
+        },
+        "fields": {
+          "title": "Односпальный комплект",
+          "price": 14.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "https://hobbie.p-host.in/images/product-7.jpeg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "8"
+        },
+        "fields": {
+          "title": "Семейный комплект",
+          "price": 19.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "https://hobbie.p-host.in/images/product-8.jpeg"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
